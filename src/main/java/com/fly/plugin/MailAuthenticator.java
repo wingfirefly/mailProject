@@ -1,4 +1,4 @@
-package com.xxniu.mail;
+package com.fly.plugin;
 
 import javax.mail.Authenticator;
 import javax.mail.PasswordAuthentication;

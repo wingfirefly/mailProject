@@ -1,7 +1,4 @@
-package com.xxniu.mail;
-
-import java.util.Date;
-import java.util.Properties;
+package com.fly.plugin;
 
 import javax.mail.Message;
 import javax.mail.Multipart;
@@ -11,6 +8,8 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeBodyPart;
 import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;
+import java.util.Date;
+import java.util.Properties;
 
 /**
  * 邮件发送操作类
